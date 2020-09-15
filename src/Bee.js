@@ -7,4 +7,3 @@ var Bee = function(age) {
 
 Bee.prototype = Object.create(Grub.prototype);
 Bee.prototype.constructor = Bee;
-
